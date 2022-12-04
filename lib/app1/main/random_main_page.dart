@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/container.dart';
-import 'package:flutter/src/widgets/framework.dart';
 import 'package:get/get.dart';
-import 'package:get/instance_manager.dart';
 import 'package:random_basic/common/style_text.dart';
 
 class RandomMainPage extends StatelessWidget {
