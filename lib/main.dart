@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:random_basic/app/main/random_main_page.dart';
+import 'package:random_basic/app1/main/random_main_page.dart';
 
 void main() {
   runApp(const MyApp());
