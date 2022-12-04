@@ -6,4 +6,10 @@ class CustomTextStyle {
     color: Colors.black,
     fontWeight: FontWeight.bold,
   );
+
+  static const TextStyle style16WhiteRTextStyle = TextStyle(
+    fontSize: 16,
+    color: Colors.white,
+    fontWeight: FontWeight.bold,
+  );
 }
